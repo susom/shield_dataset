@@ -2,7 +2,7 @@
 
 > **Dataset coming soon on Stanford Redivis**
 >
-> The SHIELD dataset will be publicly available through [Stanford Medicine on Redivis](https://redivis.com/StanfordMedicine). This page will be updated with a direct link once the dataset is released.
+> The SHIELD dataset will be publicly available through Stanford Medicine on Redivis. This page will be updated with a direct link once the dataset is released.
 
 ## Abstract
 
@@ -12,11 +12,10 @@ Clinical text de-identification is essential for secondary use of electronic hea
 
 ## Access
 
-The SHIELD dataset will be hosted on [Stanford Medicine's Redivis organization](https://redivis.com/StanfordMedicine). Once available, access will require:
+The SHIELD dataset will be hosted on Stanford Medicine Redivis. Once available, access will require:
 
 1. A Redivis account with your **institutional email**
-2. Completed [CITI "Data or Specimens Only Research" training](https://physionet.org/about/citi-course/)
-3. A signed Data Use Agreement
+2. A signed Data Use Agreement
 
 Check back here or watch this repository for updates on availability.
 
@@ -34,7 +33,3 @@ Check back here or watch this repository for updates on availability.
 ## Contact
 
 Jose D. Posada — jdposada@stanford.edu
-
-## License
-
-SHIELD Data Set License 1.0 (modeled after PhysioNet v1.5.0). Full terms will be available with the dataset on Redivis.
