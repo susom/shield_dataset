@@ -12,12 +12,7 @@ Clinical text de-identification is essential for secondary use of electronic hea
 
 ## Access
 
-The SHIELD dataset will be hosted on Stanford Medicine Redivis. Once available, access will require:
-
-1. A Redivis account with your **institutional email**
-2. A signed Data Use Agreement
-
-Check back here or watch this repository for updates on availability.
+The SHIELD dataset is hosted on Stanford Medicine Redivis. Click [here](https://stanford.redivis.com/datasets/ee4n-6gv2f84et) to access. 
 
 ## Citation
 
